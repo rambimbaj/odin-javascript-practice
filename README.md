@@ -1,2 +1,2 @@
-Odin JavaScript Practice
+# Odin JavaScript Practice
 Odin Project Exercises
